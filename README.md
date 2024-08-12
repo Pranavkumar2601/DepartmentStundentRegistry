@@ -1,0 +1,2 @@
+# DepartmentStundentRegistry
+CRUD Operation (Django)
